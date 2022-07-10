@@ -1,6 +1,10 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
 This is my second blog.
 
 $$x^2-y^2=\sin\left(\frac{x}{y-8}+x^2-y^2\right)$$
+
+\[x^2-y^2=\sin\left(\frac{x}{y-8}+x^2-y^2\right)\]
 
 This is the content of the second blog.
 
