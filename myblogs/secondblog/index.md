@@ -1,4 +1,6 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<title> text here </title>
+
 
 This is my second blog.
 
@@ -32,5 +34,7 @@ $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 $$\sin\left(x+\frac{y}{a}\right)=\sqrt{\frac{x^2-y-a}{axb+c}}$$
 
 $$\left(\left[1,n\right],\left[1,n\right]\right)$$
+
+行内公式测试 $\left(\left[1,n\right],\left[1,n\right]\right)$ 这是一个公式啦啦啦
 
 
