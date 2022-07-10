@@ -11,6 +11,13 @@ This is the content of the second blog.
 # Day -6
 我以为是今天比赛，然而我发现没收到比赛邮件，然后我看了看日期，才发现原来是下周。
 
+公式测试：行间公式测试一
+$$x^2-y^2=\sin\left(\frac{x}{y-8}+x^2-y^2\right)$$
+行间公式测试二
+\[ x^2-y^2=\sin\left(\frac{x}{y-8}+x^2-y^2\right) \]
+行内公式测试一：$x^2-y^2=\sin\left(\frac{x}{y-8}+x^2-y^2\right)$
+行内公式测试二：\( x^2-y^2=\sin\left(\frac{x}{y-8}+x^2-y^2\right) \)
+
 # Day 0
 在上学，根本没法上 APIO 的课。
 
